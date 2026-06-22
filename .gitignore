@@ -1,0 +1,13 @@
+# Local game-file copies used for analysis. Keep them in the workspace, but
+# do not publish raw game text/audio metadata by accident.
+research/limbus-story/source-copy/
+research/limbus-story/audio-index/samples/
+research/limbus-story/copied-files-manifest.csv
+research/limbus-story/source-info.json
+
+# Local bank rebuild experiments. These contain raw/rebuilt game audio banks
+# and extracted audio samples.
+test/
+
+# Local native helper binaries copied from ../Fmod-Bank-Tools for validation.
+tools/fmod-bank-helper/

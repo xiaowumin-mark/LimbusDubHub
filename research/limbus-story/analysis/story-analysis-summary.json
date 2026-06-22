@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "kr": {
+      "story_files": 914,
+      "dialogue_entries": 58091,
+      "groups": {
+        "D": 147,
+        "E": 202,
+        "ES": 35,
+        "P": 168,
+        "PC": 19,
+        "S": 343
+      }
+    },
+    "en": {
+      "story_files": 917,
+      "dialogue_entries": 58299,
+      "groups": {
+        "D": 148,
+        "E": 202,
+        "ES": 35,
+        "P": 169,
+        "PC": 19,
+        "S": 344
+      }
+    },
+    "jp": {
+      "story_files": 919,
+      "dialogue_entries": 58612,
+      "groups": {
+        "D": 148,
+        "E": 202,
+        "ES": 35,
+        "P": 169,
+        "PC": 19,
+        "S": 346
+      }
+    }
+  },
+  "unique_story_ids": 919,
+  "story_ids_with_complete_language_coverage": 914,
+  "story_ids_with_bank_pair": 640,
+  "field_occurrences": {
+    "characterlist": 37,
+    "content": 174536,
+    "d": 183,
+    "id": 172776,
+    "model": 130493,
+    "place": 4516,
+    "teller": 26896,
+    "title": 36077
+  },
+  "parse_errors": []
+}
